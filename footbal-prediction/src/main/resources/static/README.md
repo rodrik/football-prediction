@@ -1,0 +1,1 @@
+Historical data obtained at: https://github.com/footballcsv
